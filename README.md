@@ -10,6 +10,11 @@
 
 [Watch DBMS Playlist](https://www.youtube.com/watch?v=XQ_6G0iCyMQ&list=PLwvrYc43l1MxAEOI_KwGe8l42uJxMoKeS)
 
-## Quick links
+## 📚 Database Course
+
+Welcome to the full lecture series on databases. Click any class to navigate
+directly to its lesson!
+
+## 🧪 SQL Fundamentals
 
 1. [SQL Fundamentals](https://github.com/lilarani/DBMS/tree/main/SQL%20Fundamentals)

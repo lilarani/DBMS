@@ -105,7 +105,7 @@ SELECT DISTINCT country FROM student2;
 SELECT DISTINCT blood_group FROM student2;
 ```
 
----
+## class-4 Data Filtering- WHERE Clause, Logical Operators, and class-4 Data Filtering- WHERE Clause, Logical Operators, and Comparison Operators Comparison Operators
 
 ## ✅ Notes
 
