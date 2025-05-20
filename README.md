@@ -21,4 +21,8 @@ directly to its lesson!
 
 - [class-32 Pagination with Limit Offset and Data Deletion in PostgreSQL](https://github.com/lilarani/DBMS/tree/main/lectures/class-32%20Pagination%20with%20Limit%20Offset%20and%20Data%20Deletion%20in%20PostgreSQL)
 
+- [class-33 Understanding and Using the UPDATE Operator in PostgreSQL](https://github.com/lilarani/DBMS/tree/main/lectures/class-33%20Understanding%20and%20Using%20the%20UPDATE%20Operator%20in%20PostgreSQL)
+
+- [class-34 Handling Date and Date Functions in PostgreSQL](https://github.com/lilarani/DBMS/tree/main/lectures/class-34%20Handling%20Date%20and%20Date%20Functions%20in%20PostgreSQL)
+
 ## 📆 Dates & JOINs in PostgreSQL

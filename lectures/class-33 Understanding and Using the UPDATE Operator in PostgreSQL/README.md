@@ -18,7 +18,6 @@ you to change one or more columns for all or selected rows using conditions.
 UPDATE table_name
 SET column1 = value1,
     column2 = value2,
-    ...
 WHERE condition;
 ```
 
