@@ -26,3 +26,5 @@ directly to its lesson!
 ## 📆 Dates & JOINs in PostgreSQL
 
 - [class-34 Handling Date and Date Functions in PostgreSQL](https://github.com/lilarani/DBMS/tree/main/lectures/class-34%20Handling%20Date%20and%20Date%20Functions%20in%20PostgreSQL)
+
+- [class-35 Grouping and Filtering Data with GROUP BY and HAVING](https://github.com/lilarani/DBMS/tree/main/lectures/class-35%20Grouping%20and%20Filtering%20Data%20with%20GROUP%20BY%20and%20HAVING)

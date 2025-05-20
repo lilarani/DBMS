@@ -36,4 +36,3 @@ SELECT extract (month from '2003-09-13':: date);
 SELECT 't' :: BOOLEAN;
 
 SELECT * FROM timez;
-
