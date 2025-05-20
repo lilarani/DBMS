@@ -23,6 +23,6 @@ directly to its lesson!
 
 - [class-33 Understanding and Using the UPDATE Operator in PostgreSQL](https://github.com/lilarani/DBMS/tree/main/lectures/class-33%20Understanding%20and%20Using%20the%20UPDATE%20Operator%20in%20PostgreSQL)
 
-- [class-34 Handling Date and Date Functions in PostgreSQL](https://github.com/lilarani/DBMS/tree/main/lectures/class-34%20Handling%20Date%20and%20Date%20Functions%20in%20PostgreSQL)
-
 ## 📆 Dates & JOINs in PostgreSQL
+
+- [class-34 Handling Date and Date Functions in PostgreSQL](https://github.com/lilarani/DBMS/tree/main/lectures/class-34%20Handling%20Date%20and%20Date%20Functions%20in%20PostgreSQL)
