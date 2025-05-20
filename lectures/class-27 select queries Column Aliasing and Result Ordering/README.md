@@ -20,3 +20,16 @@
 - LIMIT: Specifies the maximum number of rows to return.
 
 - OPSET: Specifes the number of rows to skip before staring to return rows.
+
+## 📝 Example
+
+```sql
+SELECT DISTINCT department, COUNT(*)
+FROM employees
+WHERE status = 'active'
+GROUP BY department
+HAVING COUNT(*) > 5
+ORDER BY department ASC
+LIMIT 10
+OFFSET 5;
+```
