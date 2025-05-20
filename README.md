@@ -28,3 +28,7 @@ directly to its lesson!
 - [class-34 Handling Date and Date Functions in PostgreSQL](https://github.com/lilarani/DBMS/tree/main/lectures/class-34%20Handling%20Date%20and%20Date%20Functions%20in%20PostgreSQL)
 
 - [class-35 Grouping and Filtering Data with GROUP BY and HAVING](https://github.com/lilarani/DBMS/tree/main/lectures/class-35%20Grouping%20and%20Filtering%20Data%20with%20GROUP%20BY%20and%20HAVING)
+
+- [class-36 Constructing Relationships with Foreign Key Constraints](https://github.com/lilarani/DBMS/tree/main/lectures/class-36%20Constructing%20Relationships%20with%20Foreign%20Key%20Constraints)
+
+- [class-37 Enforcing Referential Integrity-Behaviors During Data Insertion and Deletion](https://github.com/lilarani/DBMS/tree/main/lectures/class-37%20%20Enforcing%20Referential%20Integrity-Behaviors%20During%20Data%20Insertion%20and%20Deletion)
