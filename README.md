@@ -36,3 +36,7 @@ directly to its lesson!
 - [class-38 Joining Tables with Inner, left, right and full join](https://github.com/lilarani/DBMS/tree/main/lectures/class-38%20Joining%20Tables%20with%20Inner%2C%20left%2C%20right%20and%20full%20join)
 
 - [class-39 Exploring Cross, and Natural Joins](https://github.com/lilarani/DBMS/tree/main/lectures/class-39%20Exploring%20%20Cross%2C%20and%20Natural%20Joins)
+
+- [class-40 Practice](https://github.com/lilarani/DBMS/tree/main/lectures/class-40%20Practice)
+
+## ⚙️ PostgreSQL Advanced Concepts
