@@ -83,3 +83,40 @@ SELECT extract(year FROM hire_date) as hire_year, count(*) FROM employees
 GROUP BY hire_year
 
 
+-- queary practice part 3
+
+CREATE Table orders (
+  order_id SERIAL PRIMARY KEY,
+  customer_id INT,
+  order_date DATE,
+  total_amount DECIMAL(10, 2)
+)
+
+
+INSERT INTO orders (customer_id, order_date, total_amount) VALUES
+(1, '2022-08-01', 150.75),
+(3, '2025-03-02', 89.99),
+(2, '2022-02-03', 220.50),
+(1, '2025-05-04', 45.00),
+(5, '2022-03-05', 310.00),
+(1, '2025-05-06', 125.25),
+(3, '2020-05-07', 60.00),
+(4, '2021-06-08', 199.99),
+(2, '2025-05-09', 75.45),
+(4, '2023-09-10', 430.10);
+
+
+
+
+-- Find customers who have placed more than 2 orders and calculate the total amount spent by each of these customers.
+SELECT customer_id, count(order_id) FROM orders
+GROUP BY customer_id
+HAVING count(order_id) > 2
+
+-- Find the total amount of orders placed each month in the year 2022.
+SELECT extract(month FROM order_date) as month , sum(total_amount) FROM orders WHERE extract(year from order_date ) = 2022
+GROUP BY month;
+
+SELECT * FROM orders;
+
+
