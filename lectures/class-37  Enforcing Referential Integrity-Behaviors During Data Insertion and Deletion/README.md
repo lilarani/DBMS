@@ -167,3 +167,34 @@ DELETE FROM "user" WHERE id = 4;
 ```
 
 -- ❌ Error: Cannot delete user with existing posts
+
+## 📌 Summary: PostgreSQL – User and Post Relationship
+
+This project demonstrates how to establish and enforce a relationship between
+two tables—`user` and `post`—using PostgreSQL's **foreign key constraints** to
+ensure **referential integrity**.
+
+### 🔨 Table Structure:
+
+- **`user` table:** Stores user information.
+- **`post` table:** Stores posts created by users, with a `user_id` that
+  references `user.id`.
+
+### 🔄 Data Integrity in Action:
+
+- If you try to insert a `post` with a `user_id` that does not exist in the
+  `user` table, PostgreSQL will reject the operation.
+- This enforces that all posts must belong to valid users.
+
+---
+
+### 🧾 Explanation of `ON DELETE` Constraints:
+
+| Constraint                 | Behavior Description                                                                   |
+| -------------------------- | -------------------------------------------------------------------------------------- |
+| ✅ `ON DELETE CASCADE`     | Deleting a user automatically deletes all their associated posts.                      |
+| 🔹 `ON DELETE SET NULL`    | Deleting a user sets the `user_id` in related posts to `NULL`.                         |
+| 🔧 `ON DELETE SET DEFAULT` | Deleting a user sets the `user_id` in related posts to a predefined default value.     |
+| ❌ `ON DELETE RESTRICT`    | Prevents deletion of a user if they have related posts. (This is the default behavior) |
+
+---
