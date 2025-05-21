@@ -32,3 +32,7 @@ directly to its lesson!
 - [class-36 Constructing Relationships with Foreign Key Constraints](https://github.com/lilarani/DBMS/tree/main/lectures/class-36%20Constructing%20Relationships%20with%20Foreign%20Key%20Constraints)
 
 - [class-37 Enforcing Referential Integrity-Behaviors During Data Insertion and Deletion](https://github.com/lilarani/DBMS/tree/main/lectures/class-37%20%20Enforcing%20Referential%20Integrity-Behaviors%20During%20Data%20Insertion%20and%20Deletion)
+
+- [class-38 Joining Tables with Inner, left, right and full join](https://github.com/lilarani/DBMS/tree/main/lectures/class-38%20Joining%20Tables%20with%20Inner%2C%20left%2C%20right%20and%20full%20join)
+
+- [class-39 Exploring Cross, and Natural Joins](https://github.com/lilarani/DBMS/tree/main/lectures/class-39%20Exploring%20%20Cross%2C%20and%20Natural%20Joins)
