@@ -40,3 +40,17 @@ directly to its lesson!
 - [class-40 Practice](https://github.com/lilarani/DBMS/tree/main/lectures/class-40%20Practice)
 
 ## ⚙️ PostgreSQL Advanced Concepts
+
+- [class-41 Exploring Subqueries](https://github.com/lilarani/DBMS/tree/main/lectures/class-41%20Exploring%20Subqueries)
+
+- [class-42 Utilizing Subqueries in Different Clauses](https://github.com/lilarani/DBMS/tree/main/lectures/class-42%20Utilizing%20Subqueries%20in%20Different%20Clauses)
+
+- [class-43 Exploring Views in PostgreSQL](https://github.com/lilarani/DBMS/tree/main/lectures/class-43%20Exploring%20Views%20in%20PostgreSQL)
+
+- [class-44 Exploring Functions in PostgreSQL](https://github.com/lilarani/DBMS/tree/main/lectures/class-44%20Exploring%20Functions%20in%20PostgreSQL)
+
+- [class-45 Exploring Stored Procedure in PostgreSQL](https://github.com/lilarani/DBMS/tree/main/lectures/class-45%20Exploring%20Stored%20Procedure%20in%20PostgreSQL)
+
+- [class-46 Practical Implementation of Triggers in PostgreSQL](https://github.com/lilarani/DBMS/tree/main/lectures/class-46%20Practical%20Implementation%20of%20Triggers%20in%20PostgreSQL)
+
+- [class-47 Indexing Techniques in PostgreSQL](https://github.com/lilarani/DBMS/tree/main/lectures/class-47%20%20Indexing%20Techniques%20in%20PostgreSQL)
